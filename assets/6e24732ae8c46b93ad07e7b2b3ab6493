@@ -1,0 +1,9 @@
+{
+  "name": "DepozitronPOS",
+  "displayName": "DepozitronPOS",
+  "expo": {
+    "name": "DepozitronPOS",
+    "slug": "DepozitronPOS",
+    "sdkVersion": "42.0.0"
+  }
+}
